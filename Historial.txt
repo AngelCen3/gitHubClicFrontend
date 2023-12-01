@@ -1,0 +1,8 @@
+
+  Id     Duration CommandLine
+  --     -------- -----------
+   1        0.058 try { . "c:\Users\Cliente\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\browser\media\shellIntegrati…
+   2        0.044 history
+   3        0.015 Get-History
+   4        0.157 Get-History | Out-File -FilePath C:\Ruta\Para\Guardar\Historial.txt
+

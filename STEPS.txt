@@ -1,0 +1,3 @@
+C:\Users\Cliente\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt  //To get the history
+npm install - npm i   // to install the package
+npm run dev //pra correr las dependencies	
